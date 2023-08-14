@@ -2,9 +2,9 @@
 Team Fortress 2 except everyone is voiced by Gilbert Gottfried
 
 Sound samples (embedded as a video-less mp4 since Github doesn't easily allow for mp3 embeddings)
-https://github.com/mstan/gottfried_fortress/assets/5354790/e97bf8db-1b45-40e6-870d-bd00339630fe
+[Sound samples](/sample/sample.mp3)
 
-[![Gameplay Video](https://img.youtube.com/vi/hjBEgB9GeNY/0.jpg)](https://www.youtube.com/watch?v=hjBEgB9GeNY)
+[![Gameplay Video](https://img.youtube.com/vi/hjBEgB9GeNY/0.jpg)](https://www.youtube.com/watch?v=hjBEgB9GeNY?raw=1)
 
 
 ## Info
