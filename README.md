@@ -10,6 +10,9 @@ Sound samples (embedded as a video-less mp4 since Github doesn't easily allow fo
 ## Info
 Voice conversions and original voice model for Gilbert Gottfried were trained by me (github.com/mstan) using RVC to both train and convert the in-game audio files
 
+## Testimonials
+"God frowns on you" - Gray (2023)
+
 ## Changelog
 
 - v0.1 Initial Release
